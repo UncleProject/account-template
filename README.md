@@ -1,5 +1,5 @@
-# Sellix.io / Shoppy.gg Template
-- [Sellix.io / Shoppy.gg Template](#sellixio--shoppygg-template)
+# Shop
+- [Shop Template](#Shop)
 <div style="text-align: center;">
 
 **Change your Product ID and the Logo**
